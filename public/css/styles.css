@@ -1,0 +1,77 @@
+body{
+  font-family: neue-haas-unica,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #f6f8b9;
+}
+h1{
+  font-family: neue-haas-unica, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 64px;
+  padding: 0px;
+  margin: 0px;
+}
+li{
+  font-size: 44px;
+  padding: 10px 10px;
+  color: white;
+  list-style-type: none;
+  list-style-position: inside;
+  border-bottom: 5px solid #f6f8b9;
+  display: flex;
+  justify-content: space-between;
+}
+span{
+  width: 60%;
+}
+form{
+  align-items: baseline;
+  font-size: 44px;
+}
+ul{
+  padding: 0px;
+  margin: 0px;
+}
+#text{
+  height: 40px;
+  width: 350px;
+  font-size: 44px;
+  border-color: #000000;
+  border-style: 15px solid;
+  background-color: #f6f8b9;
+}
+.high{
+  background-color: #ec525a;
+}
+.low{
+  background-color: #ec9752;
+}
+input[type=radio] {
+  height: 35px;
+}
+label{
+  padding-right: 15px;
+}
+input[type=submit] {
+  padding: 0px 60px;
+  background: #30b780;
+  border: 0;
+  font-size: 30px;
+  color: white;
+  font-family: neue-haas-unica,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  border: 2px solid black;
+}
+button{
+  padding: 10px 30px;
+  background: #f6f8b9;
+  border: 0;
+  font-size: 26px;
+  color: black;
+  font-family: neue-haas-unica,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  border: 2px solid black;
+}
